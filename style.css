@@ -1,0 +1,290 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+   }
+   .frame .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1326px;
+    height: 1346px;
+   }
+   .frame .overlap {
+    position: relative;
+    height: 1346px;
+    background-color: #d9d9d9;
+   }
+   .frame .element {
+    position: absolute;
+    width: 830px;
+    top: 1174px;
+    left: 467px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .text-wrapper {
+    font-weight: 700;
+   }
+   .frame .span {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 100;
+    
+   }
+   .frame .text-intro {
+    position: absolute;
+    width: 725px;
+    height: 364px;
+    top: 108px;
+    left: 483px;
+   }
+   .frame .div {
+    position: absolute;
+    width: 492px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .HTML-CSS-javascript {
+    position: absolute;
+    width: 721px;
+    top: 71px;
+    left: 0;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 400;
+    color: #090000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .p {
+    position: absolute;
+    width: 685px;
+    top: 599px;
+    left: 483px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .work-experience {
+    position: absolute;
+    width: 344px;
+    height: 107px;
+    top: 472px;
+    left: 466px;
+   }
+   .frame .text-wrapper-2 {
+    position: absolute;
+    width: 169px;
+    top: 0;
+    left: 1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .text-wrapper-3 {
+    position: absolute;
+    width: 1000px;
+    top: 69px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .overlap-group {
+    position: absolute;
+    width: 370px;
+    height: 1346px;
+    top: 0;
+    left: 0;
+    background-color: #6f0000;
+   }
+   .frame .image {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 45px;
+    left: 82px;
+    object-fit: cover;
+   }
+   .frame .tech-skills {
+    position: absolute;
+    width: 218px;
+    height: 225px;
+    top: 544px;
+    left: 31px;
+   }
+   .frame .text-wrapper-4 {
+    position: absolute;
+    width: 121px;
+    top: 0;
+    left: 2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .overlap-group-2 {
+    position: absolute;
+    width: 212px;
+    height: 191px;
+    top: 34px;
+    left: 0;
+   }
+   .frame .text-wrapper-5 {
+    position: absolute;
+    width: 6px;
+    top: 1px;
+    left: 2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .programming {
+    position: absolute;
+    width: 212px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .soft-skills {
+    position: absolute;
+    width: 295px;
+    height: 248px;
+    top: 889px;
+    left: 41px;
+   }
+   .frame .text-wrapper-6 {
+    position: absolute;
+    width: 113px;
+    top: 0;
+    left: 8px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: rgb(255, 252, 252);
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .overlap-2 {
+    position: absolute;
+    width: 289px;
+    height: 214px;
+    top: 34px;
+    left: 0;
+   }
+   .frame .text-wrapper-7 {
+    position: absolute;
+    width: 6px;
+    top: 1px;
+    left: 8px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .communicative-skills {
+    position: absolute;
+    width: 289px;
+    top: 0;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    -webkit-text-stroke: 1px #ffffff;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .contacts {
+    position: absolute;
+    width: 283px;
+    height: 127px;
+    top: 326px;
+    left: 31px;
+   }
+   .frame .text-wrapper-8 {
+    position: absolute;
+    width: 116px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+   }
+   .frame .c-e {
+    position: absolute;
+    width: 29px;
+    top: 65px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .element-scplab {
+    position: absolute;
+    width: 248px;
+    top: 65px;
+    left: 29px;
+    opacity: 0.5;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .text-wrapper-9 {
+    position: absolute;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    top: -21px;
+    left: 0px;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+   }
+   .frame .text-wrapper-10 {
+    text-decoration: underline;
+    color: #ffffff;
+   }
